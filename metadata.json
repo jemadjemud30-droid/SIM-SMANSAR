@@ -1,0 +1,8 @@
+{
+  "name": "LinkVault",
+  "description": "Portal manajemen tautan dan alamat web terstruktur dengan akses peran Admin dan User serta penyimpanan PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
